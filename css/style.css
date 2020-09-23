@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    background-color: #b2d7db;
+}
+
+.text {
+    margin: 40px 160px;
+}
+
+h2 {
+    font-family: 'Merriweather', serif;
+    margin-bottom: 0;
+}
+
+h2 span {
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
+    font-style: italic;
+    margin-top: 0;
+    font-size: 24px;
+}
+
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+}
+
